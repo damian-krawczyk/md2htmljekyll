@@ -2,6 +2,9 @@
 
 |table col1|table col2|table col3|
 |-|-|-|
-|item|||
-|item|||
-|item|||
+|item1|||
+|item2|||
+|item3|||
+|item4|||
+
+{{ 'now' | date: "%Y %h" }}
