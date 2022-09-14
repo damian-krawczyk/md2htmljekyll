@@ -3,6 +3,7 @@
 
 $pumpkin: #FF6200;
 $header: $pumpkin;
+$th: $pumpkin;
 
 @import "{{ site.theme }}";
 
@@ -12,4 +13,8 @@ header {
 
 header h1 {
   color: $pumpkin;
+}
+
+th {
+  border-bottom: 1px dashed $pumpkin;
 }
