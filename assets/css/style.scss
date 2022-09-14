@@ -2,7 +2,7 @@
 ---
 
 $pumpkin: #FF6200;
-$header: $pumpkin;
+$header: $pumpkin; !default;
 
 @import "{{ site.theme }}";
 
