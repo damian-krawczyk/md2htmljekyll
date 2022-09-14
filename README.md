@@ -7,4 +7,4 @@
 |item3|||
 |item4|||
 
-{{ 'now' | date: "%Y %h" }}
+{{ 'now' | date: "%Y-%m-%d %H:%M:%S" }}
