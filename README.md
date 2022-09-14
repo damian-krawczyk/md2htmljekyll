@@ -6,5 +6,6 @@
 |item2|||
 |item3|||
 |item4|||
+|item5|||
 
-{{ 'now' | date: "%Y-%m-%d %H:%M:%S" }}
+{{ 'now' | date: "%Y-%m-%d %H:%M:%S %Z" }}
