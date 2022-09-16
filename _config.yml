@@ -9,4 +9,4 @@ include:
 theme: jekyll-theme-hacker
 
 title: md2htmljekyll
-description: md2htmljekyll test
+description: md2htmljekyll test {{ 'now' | date: "%Y-%m-%d %H:%M:%S %Z" }}
