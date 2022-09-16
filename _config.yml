@@ -6,7 +6,7 @@ relative_links:
 include:
   - README.md
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
 title: md2htmljekyll
 description: md2htmljekyll test
